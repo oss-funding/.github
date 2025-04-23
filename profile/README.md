@@ -26,4 +26,5 @@ Livepeer relies heavily on open-source software. These projects, maintained by d
 
 </div>
 
-
+# Contributing to the Ecosystem
+If you want to get started with contributing to Livepeer ecosystem and getting a [spotlight](https://contributors-spotlight.rickstaa.dev/) start your journey in [Livepeer Dev Hub](https://www.livepeer.org/dev-hub).
