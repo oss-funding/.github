@@ -20,7 +20,7 @@ Livepeer relies heavily on open-source software. These projects, maintained by d
   | **[oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)** | $600 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
   | **[imageio](https://github.com/imageio/imageio)** | $150 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
   | **[opencv](https://github.com/opencv/opencv)** | $200 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
-  | **[ComfyUI-Depth-Anything-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Depth-Anything-Tensorrt)** | $150 | Monthly | [buymeacoffee](https://buymeacoffee.com/yuvraj108cz) |
+  | **[ComfyUI-Depth-Anything-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Depth-Anything-Tensorrt)** | $150 | Monthly | paypal donation |
   | **[kin-openapi](https://github.com/getkin/kin-openapi)** | $100 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
   | **[ffmpeg](https://github.com/FFmpeg/FFmpeg)** | $600 | Monthly | [paypal donation](https://www.spi-inc.org/projects/ffmpeg/) |
 
