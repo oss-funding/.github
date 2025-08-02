@@ -23,6 +23,7 @@ Livepeer relies heavily on open-source software. These projects, maintained by d
   | **[ComfyUI-Depth-Anything-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Depth-Anything-Tensorrt)** | $150 | Monthly | paypal donation |
   | **[kin-openapi](https://github.com/getkin/kin-openapi)** | $100 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
   | **[ffmpeg](https://github.com/FFmpeg/FFmpeg)** | $600 | Monthly | [paypal donation](https://www.spi-inc.org/projects/ffmpeg/) |
+  | **[hiddenswitch](https://github.com/hiddenswitch)** | $250 | Monthly | [github sponsorship](https://github.com/orgs/oss-funding/sponsoring) |
 
 </div>
 
